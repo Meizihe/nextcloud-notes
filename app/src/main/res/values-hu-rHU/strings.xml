@@ -21,7 +21,6 @@
     <string name="action_drawer_open">navigáció megnyitása</string>
     <string name="action_drawer_close">navigáció bezárása</string>
     <string name="action_recent">Friss</string>
-    <string name="action_starred">Csillagozott</string>
     <string name="action_uncategorized">Kategorizálatlan</string>
     <string name="menu_delete">Törlés</string>
     <string name="menu_copy">Másol</string>

@@ -3,6 +3,8 @@
 
     <string name="app_name">Noter</string>
     <string name="no_notes">Ingen noter endnu</string>
+    <string name="label_all_notes">Alle noter</string>
+    <string name="label_favorites">Foretrukne</string>
     <string name="action_create">Ny note</string>
     <string name="action_settings">Indstillinger</string>
     <string name="action_search">Søg</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">Åben navigation</string>
     <string name="action_drawer_close">Luk navigation</string>
     <string name="action_recent">Seneste</string>
-    <string name="action_starred">Stjernemarkeret</string>
     <string name="action_uncategorized">Ikke kategoriseret</string>
     <string name="menu_delete">Slet</string>
     <string name="menu_copy">Kopiér</string>

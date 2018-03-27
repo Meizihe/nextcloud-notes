@@ -21,7 +21,6 @@
     <string name="action_drawer_open">ნავიგაციის გახსნა</string>
     <string name="action_drawer_close">ნავიგაციის დახურვა</string>
     <string name="action_recent">ახალი</string>
-    <string name="action_starred">ვარსკლავიანი</string>
     <string name="action_uncategorized">არაკატეგორიზირებული</string>
     <string name="menu_delete">გაუქმება</string>
     <string name="menu_copy">კოპირება</string>

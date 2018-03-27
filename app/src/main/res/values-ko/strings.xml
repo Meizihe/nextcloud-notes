@@ -21,7 +21,6 @@
     <string name="action_drawer_open">탐색 열기</string>
     <string name="action_drawer_close">탐색 닫기</string>
     <string name="action_recent">최근 항목</string>
-    <string name="action_starred">별표</string>
     <string name="action_uncategorized">분류 없음</string>
     <string name="menu_delete">삭제</string>
     <string name="menu_copy">복사</string>

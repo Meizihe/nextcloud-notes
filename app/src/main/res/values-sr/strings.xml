@@ -3,6 +3,8 @@
 
     <string name="app_name">Белешке</string>
     <string name="no_notes">Још нема белешки</string>
+    <string name="label_all_notes">Све белешке</string>
+    <string name="label_favorites">Омиљене</string>
     <string name="action_create">Нова белешка</string>
     <string name="action_settings">Поставке</string>
     <string name="action_search">Тражи</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">отвори навигацију</string>
     <string name="action_drawer_close">затвори навигацију</string>
     <string name="action_recent">Скорашње</string>
-    <string name="action_starred">Означено звездицом</string>
     <string name="action_uncategorized">Некатегоризовано</string>
     <string name="menu_delete">Обриши</string>
     <string name="menu_copy">Копирај</string>

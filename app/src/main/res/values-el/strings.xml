@@ -21,7 +21,6 @@
     <string name="action_drawer_open">Άνοιγμα πλοήγησης</string>
     <string name="action_drawer_close">Κλείσιμο πλοήγησης</string>
     <string name="action_recent">Πρόσφατα</string>
-    <string name="action_starred">Με αστέρι</string>
     <string name="action_uncategorized">Μή-κατηγοριοποιημένα</string>
     <string name="menu_delete">Διαγραφή</string>
     <string name="menu_copy">Αντιγραφή</string>

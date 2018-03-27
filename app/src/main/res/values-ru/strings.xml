@@ -3,6 +3,8 @@
 
     <string name="app_name">Заметки</string>
     <string name="no_notes">Заметок пока нет</string>
+    <string name="label_all_notes">Все заметки</string>
+    <string name="label_favorites">Избранные</string>
     <string name="action_create">Новая заметка</string>
     <string name="action_settings">Настройки</string>
     <string name="action_search">Поиск</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">открыть навигацию</string>
     <string name="action_drawer_close">закрыть навигацию</string>
     <string name="action_recent">Недавние</string>
-    <string name="action_starred">Отобранные</string>
     <string name="action_uncategorized">Без категории</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_copy">Копировать</string>

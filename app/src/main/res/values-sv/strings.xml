@@ -21,7 +21,6 @@
     <string name="action_drawer_open">Öppen navigering</string>
     <string name="action_drawer_close">stäng navigering</string>
     <string name="action_recent">Nya</string>
-    <string name="action_starred">Stjärnmarkerade</string>
     <string name="action_uncategorized">Okategoriserade</string>
     <string name="menu_delete">Radera</string>
     <string name="menu_copy">Kopiera</string>

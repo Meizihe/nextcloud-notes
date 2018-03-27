@@ -3,6 +3,8 @@
 
     <string name="app_name">Notatki</string>
     <string name="no_notes">Brak notatek</string>
+    <string name="label_all_notes">Wszystkie notatki</string>
+    <string name="label_favorites">Ulubione</string>
     <string name="action_create">Nowa notatka</string>
     <string name="action_settings">Ustawienia</string>
     <string name="action_search">Szukaj</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">Otwórz okno nawigacji</string>
     <string name="action_drawer_close">Zamknij okno nawigacji</string>
     <string name="action_recent">Ostatnie</string>
-    <string name="action_starred">Oznaczone</string>
     <string name="action_uncategorized">Bez kategorii</string>
     <string name="menu_delete">Usuń</string>
     <string name="menu_copy">Kopiuj</string>

@@ -21,7 +21,6 @@
     <string name="action_drawer_open">åpne navigasjon</string>
     <string name="action_drawer_close">lukk navigasjon</string>
     <string name="action_recent">Nylig</string>
-    <string name="action_starred">Stjernemerkede</string>
     <string name="action_uncategorized">Ukategorisert</string>
     <string name="menu_delete">Slett</string>
     <string name="menu_copy">Kopie</string>

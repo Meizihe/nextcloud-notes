@@ -3,6 +3,8 @@
 
     <string name="app_name">Notes</string>
     <string name="no_notes">Aucune note pour l\'instant</string>
+    <string name="label_all_notes">Toutes les notes</string>
+    <string name="label_favorites">Favoris</string>
     <string name="action_create">Nouvelle note</string>
     <string name="action_settings">Paramètres</string>
     <string name="action_search">Rechercher</string>
@@ -21,7 +23,6 @@
     <string name="action_drawer_open">ouvrir la navigation</string>
     <string name="action_drawer_close">fermer la navigation</string>
     <string name="action_recent">Récent</string>
-    <string name="action_starred">Épinglé</string>
     <string name="action_uncategorized">Non catégorisé</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_copy">Copier</string>

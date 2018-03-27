@@ -15,9 +15,9 @@
     <string name="action_edit_cancel">Hætta við</string>
     <string name="action_about">Um hugbúnaðinn</string>
     <string name="action_select_note">Eyða minnispunkti</string>
+    <string name="action_note_restored">Minnispunktur endurheimtur</string>
     <string name="action_undo">Afturkalla</string>
     <string name="action_recent">Nýlegt</string>
-    <string name="action_starred">Stjörnumerkt</string>
     <string name="action_uncategorized">Óflokkað</string>
     <string name="menu_delete">Eyða</string>
     <string name="menu_copy">Afrita</string>

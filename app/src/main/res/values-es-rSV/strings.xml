@@ -21,7 +21,6 @@
     <string name="action_drawer_open">abrir navegación</string>
     <string name="action_drawer_close">cerrar navegación</string>
     <string name="action_recent">Reciente</string>
-    <string name="action_starred">Marcado como favorito</string>
     <string name="action_uncategorized">Sin categoría</string>
     <string name="menu_delete">Borrar</string>
     <string name="menu_copy">Copiar</string>

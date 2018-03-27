@@ -21,7 +21,6 @@
     <string name="action_drawer_open">otvoriť navigáciu</string>
     <string name="action_drawer_close">zavrieť navigáciu</string>
     <string name="action_recent">Nedávne</string>
-    <string name="action_starred">S hviezdičkou</string>
     <string name="action_uncategorized">Nezaradené</string>
     <string name="menu_delete">Zmazať</string>
     <string name="menu_copy">Kopírovať</string>
@@ -119,6 +118,8 @@
     <string name="widget_create_note">Vytvoriť poznámku</string>
     <string name="widget_not_logged_in">Prihláste sa prosím do Poznámok skôr než začnete používať tento widget</string>
     <string name="widget_entry_fav_contentDescription">Ikona hviezdičky označuje položku ako obľúbenú</string>
+    <string name="widget_app_launcher_contentDescription">Spustí aplikáciu</string>
+
     <string name="activity_select_single_note">Vybrať poznámku</string>
 
     <!-- Shortcuts -->

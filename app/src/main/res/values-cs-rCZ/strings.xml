@@ -21,7 +21,6 @@
     <string name="action_drawer_open">otevřít navigační panel</string>
     <string name="action_drawer_close">zavřít navigační panel</string>
     <string name="action_recent">Nedávné</string>
-    <string name="action_starred">S hvězdičkou</string>
     <string name="action_uncategorized">Nezařazeno</string>
     <string name="menu_delete">Smazat</string>
     <string name="menu_copy">Kopírovat</string>
@@ -46,7 +45,7 @@
     <string name="settings_server_settings">Nastavení účtu</string>
     <string name="settings_server">Server</string>
     <string name="settings_url">Adresa serveru</string>
-    <string name="settings_url_check_description">Značí, jestli lze adresu pingnout.</string>
+    <string name="settings_url_check_description">Značí, zda lze adresu pingnout.</string>
     <string name="settings_url_warn_http">POZOR: \"http\" není bezpečné. Prosím použijte \"https\"</string>
     <string name="settings_username">Uživatelské jméno</string>
     <string name="settings_password">Heslo</string>
